@@ -1,0 +1,68 @@
+Circuit Separation for Symmetric Matroids
+A. Duchamp
+
+     La  structure  de matroïdes symétriques, ainsi que la struc­
+ture associée de delta-matroïdes, est une généralisation des  ma­
+troïdes  finis,  introduite par A. Bouchet pour étendre plusieurs
+jolies propriétés relatives aux matroïdes (greedy algorithme, du­
+alité,  representation).  Pour un matroïde symétrique, défini sur
+l'ensemble  W , la famille  C  de ses circuits est  dite  faible­
+ment  séparable si la relation sur  W ".x,y . C , pour un circuit
+C." est transitive, tandis que  C  est dite séparable s'il existe
+une sous-transversale  V  de  W  telle que  C Õ V  ou  C << V = .
+,  pour  tout  circuit   C  .  Ces  deux  classes  de   matroïdes
+symétriques  sont  caractérisées par plusieurs propriétés équiva­
+lentes  et   par   mineurs   exclus.   Ensuite,   on   en   donne
+l'interprétation  correspondante  pour  les  delta-matroïdes, une
+caractérisation de deux types de  delta-matroïdes  provenant  des
+matroïdes,  et  deux résultats sur les matroïdes symétriques con­
+sidérés comme intersection de matroïdes symétriques particuliers.
+     Symmetric  matroids  and  their associated structure, delta-
+matroids, are a generalization of finite matroids  introduced  by
+A.  Bouchet to extend several nice properties related to matroids
+(greedy algorithm, duality, representation). For a given  symmet­
+ric  matroid, the family  C  of its circuits is said to be weakly
+separate if the relation on  W ".x,y . C , for some circuit   C."
+is  transitive, while  C  is said to be separate, if there exists
+a subtransversal  V  of  W  such that  C Õ V  or  C << V  =  .  ,
+for  any circuit  C . These two classes of symmetric matroids are
+characterized by equivalent properties and excluded minors.  Then
+we  give  the corresponding interpretation in delta-matroids with
+the characterization of two types of delta-matroids  coming  from
+matroids, and two results on the symmetric matroids considered as
+an intersection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

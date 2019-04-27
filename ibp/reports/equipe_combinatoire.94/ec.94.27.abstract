@@ -1,0 +1,68 @@
+Contrôle d'heuristiques par poursuite ou utilisation d'objectifs flexibles
+J. Maublanc , A. Quilliot
+
+     La  plupart des méthodes connues pour résoudre des problèmes
+de satisfaction de contraintes dont les domaines n'offrent pas de
+bonnes  propriétés  de convexité sont basées sur le pilotage d'un
+point courant dans ce domaine. Les déplacements de ce point  sont
+alors  décidés en fonction de l'évolution d'une certaine quantité
+objectif (Descente, Descente stochastique...), du  résultat  d'un
+tirage  au  sort (Recuit Simulé), ou d'une mémorisation des posi­
+tions rencontrées antérieurement (Tabou). Nous allons décrire ici
+une  approche  duale,  focalisant  notre  attention  non plus sur
+l'objet primal mais sur les paramètres d'un objectif de  contrôle
+flexible  qui  conditionnent les déplacements de cet objet. Cette
+approche s'avère très efficace dans certains cas. Elle permet  de
+décomposer  le problème et de faire porter l'effort concernant la
+gestion des optimums locaux sur un objet de structure moins  com­
+plexe  que celle de l'objet primal.       Most of the usual meth­
+ods applied to the resolution of constraint satisfaction problems
+imply  driving  a potential solution (eventually not fully speci­
+fied) inside some domain. When this domain doesn't offer any kind
+of  convexity  property,  the movements of the current object are
+decided with the help of a random control  (simulated  annealing)
+or  of  a  memorization of the previous position (Tabou). The ap­
+proach we describe here is dual. We don't focalize anymore on the
+primal object, but instead on the parameters which define an aux­
+iliary control function. This approach occurs to  be  very  effi­
+cient in some cases. It allows a decomposition of the problem and
+a transfer of part of the complexity from the primal object whose
+structure is usually complex, to a simpler dual object.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

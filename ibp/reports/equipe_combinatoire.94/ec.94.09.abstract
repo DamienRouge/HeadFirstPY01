@@ -1,0 +1,68 @@
+Optimizing Slightly Triangulated Graphs
+F. Maire
+
+     A  vertex whose neighbourhood is P4-free is called a P4-free
+vertex. A graph  G  is called  slightly triangulated if it satis­
+fies the two following conditions :
+ 1)  T-he  graph   G   contains no chordless cycle with 5 or more
+vertices.
+ 2) Every induced subgraph of  G  contains a P4 n free vertex.
+ These graphs generalize triangulated graphs and appear naturally
+in the study of the intersection graphs of the maximal rectangles
+of orthogonal polygons. Slightly triangulated graphs are  perfect
+(in  the sense of  C. Berge). In this paper we present algorithms
+for recognizing slightly triangulated graphs, for finding a maxi­
+mum  clique,  and for finding an optimal colouring      Un sommet
+dont le voisinage ne contient pas de P4 est appelé  P4-libre.  Un
+graphe   G  est dit légèrement triangulé, s'il satisfait les deux
+conditions suivantes :
+ 1) Le graphe  G  ne contient aucun cycle sans corde de  longueur
+au moins 5.
+ 2)   Chaque   sous-graphe  induit  de   G   contient  un  sommet
+P4--libre.
+ Ces graphes généralisent les graphes triangulés et  apparaissent
+naturellement dans l'étude des graphes d'intersection des rectan­
+gles maximaux des polygones orthogonaux. Les  graphes  légèrement
+triangulés  sont  parfaits (au sens de C. Berge). Dans ce papier,
+nous présentons des  algorithmes  pour  reconnaître  les  graphes
+légèrement  triangulés,  pour  trouver une clique maximum et pour
+déterminer un coloriage optimum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

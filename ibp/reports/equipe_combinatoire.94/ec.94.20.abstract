@@ -1,0 +1,68 @@
+The clique-rank of diamond-free perfect graphs
+J. Fonlupt
+
+     Le  rang  d'un  graphe  parfait  G  introduit par Fonlupt et
+Sebö est le rang linéaire de la matrice d'incidence  des  cliques
+de  taille maximum de  G . Nous étudions le rang des graphes par­
+faits sans diamant 3-coloriables et nous montrons que ces graphes
+ont  au  moins  2 colorations optimales. La démonstration utilise
+des arguments combinatoires et des arguments d'algèbre  linéaire.
+     The  rank  of a perfect graph introduced by Fonlupt and Sebö
+is the linear rank of the incidence matrix of the maximum cliques
+of   G  . We study this rank for diamond-free 3-colorable perfect
+graphs and we prove that these graphs have at least two  distinct
+optimal  colorings. The proof uses both linear algebra and combi­
+natorial arguments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

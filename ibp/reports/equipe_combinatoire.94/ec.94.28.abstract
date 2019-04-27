@@ -1,0 +1,68 @@
+A formalism with time indexation for non monotonic reasoning : an application to the treatment of a cat and mouse game
+P. Nicolas , A. Quilliot
+
+     Un  formalisme  que nous présentons ici en vue du traitement
+de la non monotonie fonctionne comme suit : à  un  instant   t  ,
+l'état courant du système induit une génération d'hypothèses, qui
+permet de produire une décision dont l'application perturbe à son
+tour  le  système  pour  l'instant   t  +  1  . Des opérateurs de
+création et rétraction d'hypothèses  permet  la  manipulation  de
+celles-ci.
+  Nous  prouvons  quelques  résultats de complétude et de consis­
+tance relatifs à ce modèle et présentons une application pratique
+à   la   programmation  d'un  jeu  de  stratégie  par  un  moteur
+d'inférence.       The formalism we present here in order to deal
+with non monotonic reasoning processes works as follows : at some
+time  t , the current state of a system induces the generation of
+some  hypothesis, which help to produce some king of decision and
+thus exerts in turn an influence on the way the system behaves at
+time   t + 1  . Some creation and retraction of hypothesis opera­
+tors make possible to distinguish the real facts  from  the  sup­
+posed facts and to manipulate them.
+ As  an application, we summarize in a short way a logic program­
+ming experiment which involves the design of the cat strategy  in
+a cat and mouse pursuit game.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

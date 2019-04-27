@@ -1,0 +1,11 @@
+
+	Files suffixed with `.ps.gz' are Postscript files compressed with the
+gzip utility. Once they are uncompressed, they can be directly printed
+on a Postscript printer.
+
+	If you do not have a Postscript printer, you can still look at the
+contents of the file with a Postscript previewer. You may want to look at
+the ghostscript software, available on this ftp site in /pub/ghost. Ghostscript
+allows you to preview Postscript files and to print them on non Postscript
+printers.
+

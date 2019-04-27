@@ -1,0 +1,68 @@
+Résolution de programmes linéaires entiers ou mixtes à l'aide de la forme Normale de Hermite
+J. Maublanc, A. Quilliot
+
+     Un  programme  linéaire entier ou mixte s'avère pratiquement
+difficile à résoudre quand le polyèdre qu'il  définit  est  assez
+"plat"  et  géométriquement peu régulier. Nous présentons ici une
+approche pour le traitement de tels programmes qui est basée  sur
+l'utilisation   de   changements   de   variables  permettant  de
+régulariser ce polyèdre et de faire apparaître de façon naturelle
+des candidats à la solution. Nous en déduisons différentes inter­
+prétations algorithmiques, par  génération  de  coupes  et  sauts
+aléatoires,  par  séparation  et évaluation, par décomposition de
+Benders,  dont  nous  vérifions   la   convergence   et   testons
+l'efficacité.        A  linear integer or mixed program prove it­
+self difficult to solve when the associated polyedra is  somewhat
+"flat"  and  presents some irregularities. We propose here an ap­
+proach which tends to regularize this polyedra through  a  change
+of  variables  which  is based upon an utilization of the Hermite
+Normal Form. This change of variable makes appear in a  straigth­
+forward  way a potential solution of the program and a cut-set in
+the case this potential solution is not feasible. We deduce  from
+this several algorithms, which work by successive cuts, by branch
+and bound or by Benders decomposition, we check their convergence
+and we test their practical efficiency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

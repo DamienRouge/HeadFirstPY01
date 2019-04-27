@@ -1,0 +1,21 @@
+
+	Ce repertoire contient des rapports de recherche ecrits par des
+chercheurs de l'IBP.
+
+	Le fichier INDEX contient la liste des rapports.
+
+	Chaque rapport est disponible sous forme de deux fichiers :
+	- laboratoire.annee.numero.abstract : le resume du rapport
+	- laboratoire.annee.numero.ps.gz : le rapport en format Postscript
+
+----------
+
+	This directory contains research reports written by the IBP
+researchers.
+
+	The file INDEX contains the list of the reports.
+
+	Each report is available as two files:
+	- laboratory.year.number.abstract: the abstract
+	- laboratory.year.number.ps.gz: the report in Postscript format
+

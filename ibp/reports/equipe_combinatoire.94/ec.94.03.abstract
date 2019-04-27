@@ -1,0 +1,68 @@
+The representation of some integers as a subset sum
+Y. O. Hamidoune
+
+     Soient  A  un  sous ensemble de {1,2,.. ,n} et B un ensemble
+d'entiers. Nous étudions la plus petite valeur de |A| telle qu'il
+existe  un  sous  ensemble de A dont la somme est un élément de B
+pour certaines valeurs de B. Nous énonçons  ci-dessous  l'un  des
+résultats que nous obtenons:
+ Soient  p  un  nombre  premier et  A  une partie de {1,2,.. ,p }
+telle que  |A| > [(p+1)/3]+28,. Alors tout entier pair x tel  que
+4p -1< x  p(p+170)/48 est la somme d'une partie de A.       Let A
+be a  subset of {1,2,..,n} and let B be a  set  of  integers.  We
+study for some values of B the smallest value of |A| which forces
+the existence of a representation of an element of  B  as  a  sum
+of  some  subset of A. One of the results obtained is the follow­
+ing.
+ Let p be a prime and  let  A  be a subset of {1,2,.. ,p  }  such
+that   |A| > [(p+1)/3]+28, then every   even integer  x such that
+4p -1< x  p(p+170)/48 is the sum of some subset of A with sum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

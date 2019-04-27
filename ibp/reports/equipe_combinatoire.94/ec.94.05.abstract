@@ -1,0 +1,68 @@
+The q-perfect graphs
+C. BERGE
+
+     Soit   q   un  entier positif. Pour de nombreuses classes de
+graphes, il existe une coloration des sommets avec   q   couleurs
+et  une  partition  en cliques telle que chacune des cliques soit
+".fortement colorées." (c'est-à-dire :  contient  le  plus  grand
+nombre envisageable de couleurs différentes). Si un graphe  G  et
+tous ses  sous-graphes ont cette propriété, on dira que   G   est
+".q-parfait.".  Pour q = 1, ceci équivaut à dire que  G  est par­
+fait. Dans cet article, on étudie différentes classes de  graphes
+ayant  cette  propriété  pour d'autres valeurs de  q  .       Let
+q  be a positive integer. Many graphs admit  a  partial  coloring
+with   q   colors  and  a  clique partition such that each of the
+cliques is ".strongly colored.", that  is  contains  the  largest
+possible  number  of different colors. If a graph  G  and all its
+induced subgraphs have this property, we say  that   G   is  ".q-
+perfect.".  For   q = 1, this reduces to the classical concept of
+perfect graph. In this paper, we study the graphs which appear to
+be q-perfect for some values of  q  .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

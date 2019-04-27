@@ -1,0 +1,11 @@
+
+	Cette arborescence contient des versions Postscript de rapports
+de recherche et de theses. Les fichiers suffixes par `.ps.gz' sont des
+fichiers Postscript compresses avec l'utilitaire gzip.
+
+	Si vous ne disposez pas de gzip sur votre machine, vous pouvez
+demander au serveur de vous envoyer la version non compresse. Pour cela,
+demandez le nom du fichier, sans le suffixe `.gz', par exemple:
+
+	ftp> get laforia.94.01.ps
+

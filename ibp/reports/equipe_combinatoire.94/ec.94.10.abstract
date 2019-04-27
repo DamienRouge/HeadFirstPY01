@@ -1,0 +1,68 @@
+On weighted sums in Abelian groups
+Y. O. Hamidoune
+
+     Soient   G  un groupe abélien fini, W  et  A  deux ensembles
+finis tels que  .A . =  .G . + .W . . Soient  f : A Æ G  une  ap­
+plication  et   {w(x)  ;  x  . W}  une famille d'entiers premiers
+relativement à   .G .. Alors il existe  a . A  et  une  injection
+g : W Æ A  a  tels que      Sx.Ww(x) f (g(x) = (Sx.W w(x)) f (a )
+. Le cas où |W| = |G| - 1 et  w(x) = 1 , pour  tout   x   est  un
+résultat bien connu dû à Erdös, Ginsburg et Ziv.       Let  G  be
+a finite abelian group and let  W  , A  be two finite  sets  such
+that   |A|  =  |G|  +  |W|   Let  f : A Æ G  be a mapping and let
+{w(x) ; x . W}  be a family of natural numbers  relatively  prime
+to  |G|  . Then there are  a . A  an injective mapping  g : W Æ A
+ a  such that  Sx.Ww(x) f (g(x) = (Sx.W w(x)) f (a ) .  The  case
+where  |W|  =  |G|  -  1  and  w(x) = 1 , for all  x  is the well
+known Erdös-Ginsburg-Ziv Theorem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

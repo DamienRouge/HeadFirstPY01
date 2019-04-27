@@ -1,0 +1,68 @@
+An interval decomposition method for solving a resource affectation problem
+A. Quilliot , sun Xiao Chao
+
+     Nous considérons ici un problème d'affectation de ressources
+défini par un ensemble d'actions X, un ensemble de ressources  M,
+T  une  multiapplication  de  X  dans  M qui, pour tout x dans X,
+définit le sous-ensemble T(x) des ressources de M qui  sont  com­
+patibles  avec X, et un triplet (F, Min Max) où F est une famille
+de sous-ensembles de M et Min,  Max  deux  fonctions  de  F  dans
+l'ensemble N des entiers naturels. Nous disons qu'une affectation
+des actions de X sur les ressources de M est H-compatible si pour
+tout  f  dans  F  on a : Min(f). Nombre d'actions de X effectuées
+avec des ressources de f .Max(f)
+ La recherche d'une affectation H-compatible (éventuellement  op­
+timale  par rapport à un certain critère) définit un problème que
+l'on rencontre fréquemment en planification  et  qui  s'avère  la
+plupart  du  temps NP-complet. Nous prouvons ici que si H définit
+un hypergraphe d'intervalles,  alors  la  programmation  linéaire
+permet  de  résoudre  ce  problème et en déduisons une méthode de
+décomposition pour le cas général.       Let us consider the fol­
+lowing datas :
+ X is an action set ,
+ M is a resource set,
+ T  is  a multiapplication from X to M which, for any x in X, de­
+fines the subset T(x) of M of the resources of M which  are  com­
+patible with x
+ H  is  a  triplet (F,Min,Max) where F is a family of subset of M
+and Min,Max are functions from F to the natural number set.
+ We say that an affectation of the actions of X to the  resources
+of M is H-compatible if for every f in F :
+ Min(f)=<  Number  of  actions of X affected on resources of f =<
+(Max(f).
+ Searching for a H-compatible affectation (eventually optimal  in
+relation  with  a given criterion) defines a problem which may be
+frequently encountered in timetabling conception, scheduling  and
+plan  construction  and  which is most often Time-NP-Complete (as
+far as the cardinality of M is taken into account inside the com­
+plexity  calculus). We prove here that if F may be represented as
+an interval family, then the H-compatible affectation problem can
+be solved by relaxation of the associated integer linear problem,
+and from this we deduce a decomposition method  for  solving  the
+general case
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

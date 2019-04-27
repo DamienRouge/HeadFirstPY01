@@ -1,0 +1,68 @@
+Some properties of non-bicolorable hypergraphs and the four-color problem
+C. BERGE
+
+     Les  hypergraphes de nombre chromatique inférieur à 3 (".bi­
+colorables hypergraphes.") ont été  introduits  par  E.W.  Miller
+[13]  sous le nom de ".familles avec la Propriété B.". Ce concept
+apparaît dans la Théorie des Nombres (cf [5], [10]) ; il est aus­
+si  utilisé en Recherche Opérationnelle et par les jeux position­
+nels  (cf  [3],  [4],  [7]).  Différentes  inégalités   ont   été
+démontrées,  en  fonction  du  nombre de sommets, des tailles des
+arêtes, etc... ([6], [11], [12]).       Un hypergraphe qui  rede­
+vient  bicolorable  quand on ôte une quelconque de ses arêtes est
+appelé ".arête-critique.", et plusieurs de ses propriétés ont été
+démontrées ([2], [4], [14]). Dans cet article, au lieu des hyper­
+graphes ".arêtes-critiques.", nous étudions ceux qui sont  ".som­
+mets-critiques.".  Les  applications  sont plus nombreuses, et il
+apparaît que des énoncés légèrement  plus  forts  pourraient  en­
+traîner le théorème des quatre couleurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

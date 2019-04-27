@@ -1,0 +1,10 @@
+
+	This directory tree contains Postscript version of research reports
+and theses. Files suffixed with `.ps.gz' are postscript files compressed
+with the gzip utility.
+
+	If you don't have gzip on your machine, you can request uncompressed
+files. To do so, just ask for the file name, without the `.gz' suffix, e.g.
+
+	ftp> get laforia.94.01.ps
+

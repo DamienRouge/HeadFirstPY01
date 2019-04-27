@@ -1,0 +1,68 @@
+Fondement graphique de l'algorithme de Thurston,Parallélisation, unicité et décomposition
+J.C. Fournier
+
+     Le  désormais  classique algorithme de Thurston [6], pour le
+pavage des figures planes finies et sans trous par  des  dominos,
+peut  être  retrouvé  par  la condition de Hall sur les couplages
+dans les graphes bipartis et  la  considération  de  plus  courts
+chemins  dans  un graphe associé à la figure à paver. Ce point de
+vue nouveau permet une parallélisation en temps O(log n) avec  n3
+processeurs  sur  un  modèle PRAM, c'est-à-dire de façon efficace
+(classe NC). Ce même algorithme résout la question  de  l'unicité
+d'un  pavage  et, de façon plus générale, donne une décomposition
+canonique de la figure.       Thurston's now classical  algorithm
+[6],  for  tiling  finite and without holes pictures of the plane
+with dominoes, can be found again by Hall's condition for  match­
+ings  in bipartite graphs and by considering shortest  paths in a
+graph associated with the picture to tile. This new point of view
+allows a parallelization in O(logn) time using n3 processors on a
+PRAM model, that is in an efficient way (class NC). The same  al­
+gorithm  solves  the question of uniqueness of a tiling and, more
+generally, gives a canonical decomposition of the picture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,77 @@
+------------------------------------------------------------------------------ 
+
+Aux mois de mars et d'avril 1995 (et peut-etre plus tot), de nombreux sites 
+connectes a l'Internet (notamment via les reseaux francais Renater et PhyNet) ont
+ete victimes d'intrusions. Les intrus se sont introduits sur plusieurs machines,
+ont modifie des fichiers de configuration ou laisse des chevaux de Troie ou des 
+programmes espions afin de pouvoir revenir a leur gre, ont envoye de faux 
+messages sur les News et modifie des pages Web consultables publiquement.
+
+Une liste partielle des organismes attaques est :
+
+- Conservatoire National des Arts et Metiers (CNAM)
+- Institut National de Recherche sur les Transports et leur Securite (INRETS)
+- Ecole Superieure d'Electricite (Supelec)
+- LEM (labo commun ONERA/CNRS)
+- Ecole Nationale Superieure des Telecommunications (ENST)
+- Institut Blaise Pascal (IBP), federation CNRS des laboratoires d'informatique 
+     du campus Jussieu
+- CENBG (laboratoire de l'Institut National de Physique Nucleaire et de Physique
+     des Particules, IN2P3) 
+
+Il a fallu de nombreux jours aux responsables de ces sites pour les
+remettre en etat et s'assurer que rien n'etait oublie. Outre le temps ainsi
+perdu, les mesures de securite qui ont ete adoptees genent quotidiennement
+le travail des utilisateurs.
+
+Les organismes suivants ont porte plainte a l'heure actuelle :
+
+- CNAM (le 4 mai)
+- France Telecom (le 19 mai)
+
+D'autres sont susceptibles de le faire et etudient la question :
+
+- ONERA
+- IN2P3
+- Supelec
+- INRETS
+
+et les autorites de police et judiciaires sont chargees de l'enquete.
+
+Du point de vue technique, aucune methode novatrice ne semble avoir ete
+utilisee. Ces sites de recherche ou d'enseignement, etant tres ouverts par
+vocation, etaient des cibles faciles. Il faut rappeler que la securite ne
+repose pas uniquement sur des mesures techniques mais aussi sur la bonne
+volonte de tous.
+
+L'etude des traces laisses par les intrus montre qu'ils sont souvent passes
+de machine en machine. En remontant la liste des sites atteints, on arrive
+au reseau 163.5.0.0 (du domaine epita.fr). Pour cette raison, le reseau en
+question est desormais filtre par les routeurs d'interconnexion de Renater
+et PhyNet (reseau de l'IN2P3).
+
+A noter que ce filtrage ne protege que les sites connectes via Renater et 
+PhyNet, et seulement des attaques directes. La connectivite du reseau de 
+l'EPITA a l'Internet reste assuree pour tous les reseaux qui n'ont pas poses 
+de filtres, des attaques indirectes restent donc possibles et le resteront 
+tant que les personnes a l'origine de ces malveillances resteront libres 
+d'agir impunement.
+
+Nous deplorons le comportement de ceux qui ne cherchent qu'a detruire le 
+travail des autres et qui en outre s'en vantent publiquement comme dans 
+les emissions televisees recentes sur le piratage ou dans les debats sur 
+des groupes de News comme par exemple fr.network.divers. 
+
+Signe par :
+
+Stephane Bortzmeyer <bortzmeyer@cnam.fr> pour le CNAM
+Pierre Gauriat <gauriat@inrets.fr> pour l'INRETS
+Daniel Clar <dc@supelec.fr> pour Supelec
+Herve Schauer <Herve.Schauer@hsc.fr.net> de la societe HSC
+Philippe Dax <dax@inf.enst.fr> pour l'ENST
+Christian Perrier <bubulle@bubhome.frmug.fr.net> a titre prive
+Remy Card <Remy.Card@ibp.fr> pour l'IBP
+Bernard Perrot <perrot@ipncls.in2p3.fr> pour l'IN2P3
+
+----------------------------------------------------------------
+

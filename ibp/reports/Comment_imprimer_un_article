@@ -1,0 +1,11 @@
+
+	Les fichiers suffixes par `.ps.gz' sont des fichiers Postscript
+compresses avec l'utilitaire gzip. Une fois decompresses, ils peuvent etre
+imprimes directement sur une imprimante Postscript.
+
+	Si vous ne disposez pas d'une imprimante Postscript, vous pouvez
+neanmoins utiliser un visualisateur Postscript pour lire les rapports. Il
+peut etre interessant d'utiliser ghostscript, disponible sur ce serveur
+ftp dans /pub/ghost. Ghostscript permet de visualiser des fichiers Postscript
+et de les imprimer sur des imprimantes non Postscript.
+

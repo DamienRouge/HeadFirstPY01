@@ -1,0 +1,68 @@
+Minimum shadows in uniform hypergraphs and a generalization of the Takagi function
+Peter Frankl, Makoto Matsumoto, Imre.Z..Ruzsa, Norihide Tokushige
+
+     La  fonction  ombre  est  étroitement  liée  au  théorème de
+Kruskal-Katona. La fonction de Takagi est un exemple classique de
+fonction continue nulle part différentiable. Le propos de cet ar­
+ticle est de présenter une relation assez  surprenante  entre  la
+fonction ombre et la fonction de Takagi. En utilisant cette rela­
+tion on peut calculer approximativement la taille des ombres min­
+imales  dans  les  hypergraphes uniformes avec un nombre d'arêtes
+donné. Afin de décrire le comportement asymptotique de la  taille
+des  ombres nous introduisons une fonction de Takagi généralisée,
+nouvelle. Les résultats expliquent les difficultés  souvent  ren­
+contrées  en  utilisant  les  meilleures  bornes possible dans le
+théorème de Kruskal-Katona.       The shadow function is  closely
+related  to  the Kruskal-Katona Theorem. The Takagi function is a
+standard example of a nowhere differentiable continuous function.
+The  purpose of this paper is to exhibit a rather surprising  re­
+lationship between the shadow function and the  Takagi  function.
+Using  this  relationship, one can approximately compute the size
+of minimum shadows in uniform hypergraphs with a given number  of
+edges.  In  order to describe the asymptotic behavior of the size
+of shadows, we introduce a new, generalized Takagi function.  The
+results  explain  the  difficulties, often encountered when using
+the best possible bounds arising from the Kruskal-Katona Theorem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

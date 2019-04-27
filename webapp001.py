@@ -59,13 +59,18 @@ def entry_page() ->'html':
 @app.route('/viewlog')
 def view_log()-> 'html':
     lines = []
-    with open('versearch.log') as logstream:
-        for line in logstream:
-            lines.append([])
-            for item in line.split('|'):
-                lines[-1].append(escape(item))
-        titles = ('Form Data', 'Remote_addr','User_Agent','Result')
-        return render_template('viewlog.html', the_title = 'View Log', the_row_titles = titles, the_data = lines)
+    # with open('versearch.log') as logstream:
+    #     for line in logstream:
+    #         lines.append([])
+    #         for item in line.split('|'):
+    #             lines[-1].append(escape(item))
+    with UseDatabase(app.config['dbconfig']) as cursor:
+        select_stmt = """SELECT phrase,letters, ip,browser_string, results FROM log"""
+        cursor.execute(select_stmt)
+        result = cursor.fetchall()
+    #T
+        titles = ('phrase', 'letters','ip','browser_string','Result')
+        return render_template('viewlog.html', the_title = 'View Log', the_row_titles = titles, the_data = result)
         #return str(lines)
     #     lines=[]
     #     for line in logstream:

@@ -1,8 +1,8 @@
-from flask import Flask,render_template, request,redirect,escape
+from flask import Flask,render_template, request,redirect,escape,session
 from search4v import search4vowels,search4letters
 #from mysql import connector
 from DBcm import UseDatabase
-
+from checker import check_logged_in
 
 app = Flask(__name__)
 app.config['dbconfig'] = {'host':'127.0.0.1','user':'vsearch','password':'vsearchpassword','database':'vsearchlogDB'}
@@ -56,7 +56,21 @@ def do_search()->str:
 def entry_page() ->'html':
     return render_template('entry.html', the_title = "Welcome 2 search4letters")
 
+@app.route('/login')
+@check_logged_in
+def do_Login():
+    session['logged_in'] = True
+    return "You are now logged in, thanks."
+
+@app.route('/logout')
+@check_logged_in
+def do_logout():
+    session.pop('logged_in')
+    return "You are not logged out, thanks"
+
+
 @app.route('/viewlog')
+@check_logged_in
 def view_log()-> 'html':
     lines = []
     # with open('versearch.log') as logstream:

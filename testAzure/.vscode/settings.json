@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\Damien Rouge\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5131d52f-bef3-4440-ba7d-7acd7975ee43/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/damienwebappPython",
+    "appService.deploySubpath": ""
+}
